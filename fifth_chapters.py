@@ -1,4 +1,4 @@
-#if语句;Chenyiming-2017-10-23
+#if语句;
 cars = ['audi','bmw','subaru','toyota']
 
 for car in cars:
