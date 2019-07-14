@@ -1,4 +1,4 @@
-#  函数；Chenyiming-2017-10-31
+#  函数；
 #  定义函数，使用关键字def
 
 def greet_user():
